@@ -1,0 +1,30 @@
+{
+	"name": "ch-webpack-learn",
+	"version": "1.0.0",
+	"description": "学习webpack",
+	"main": "webpack.config.js",
+	"scripts": {
+		"build": "webpack --mode development"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/CH0918/ch-webpack-learn.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/CH0918/ch-webpack-learn/issues"
+	},
+	"homepage": "https://github.com/CH0918/ch-webpack-learn#readme",
+	"devDependencies": {
+		"@babel/core": "^7.20.2",
+		"@babel/preset-env": "^7.20.2",
+		"babel-loader": "^9.1.0",
+		"webpack": "^5.75.0",
+		"webpack-cli": "^5.0.0"
+	},
+	"dependencies": {
+		"core-js": "^3.26.1"
+	}
+}
