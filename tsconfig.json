@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "moduleResolution": "Node"
+    // "paths": {
+    //   "@/*": ["./*"]
+    // }
+  },
+  "exclude": ["node_modules"]
+}

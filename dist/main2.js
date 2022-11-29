@@ -1,0 +1,1 @@
+(self.webpackChunkch_webpack_learn=self.webpackChunkch_webpack_learn||[]).push([[869],{553:()=>{console.log("hello world!")}},e=>{e(e.s=553)}]);
